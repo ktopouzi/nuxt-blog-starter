@@ -19,7 +19,7 @@
 </script>
 
 <template>
-	<article class="prose dark:prose-invert md:prose-xl mt-10 max-w-none">
+	<article class="mt-10 max-w-none">
 		<ContentDoc :path="route.path" />
 	</article>
 </template>
